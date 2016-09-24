@@ -21,7 +21,7 @@
 
     <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="23" />
 
-    <meta-data android:name="org.cyanogenmod.theme.name" android:value="@string/"/>
+    <meta-data android:name="org.cyanogenmod.theme.name" android:value="@string/theme_name"/>
     <meta-data android:name="org.cyanogenmod.theme.author" android:value="@string/theme_author" />
     <meta-data android:name="org.cyanogenmod.theme.email" android:value="@string/theme_email" />
 
