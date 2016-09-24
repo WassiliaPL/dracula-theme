@@ -5,11 +5,11 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "org.cyanogenmod.theme.template"
-        minSdkVersion 23
+        applicationId "org.cyanogenmod.theme.dracula"
+        minSdkVersion 21
         targetSdkVersion 23
-        versionCode 1000
-        versionName "1.0.0"
+        versionCode 5
+        versionName "0.1"
     }
     buildTypes {
         release {
